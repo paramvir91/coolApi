@@ -29,5 +29,5 @@ Once the images are create you can issue the following command to bring the imag
 ### Health endpoint
 Once this is done you should be able to execute the script probe.sh which will monitor the health of the api and write a file as following:
 
-response_code: 200 connect_time: 0.006118
-response_code: 200 connect_time: 0.006118
+response_code: 200 [timestamp:2018-07-16T23:53:49.3N]
+response_code: 200 [timestamp:2018-07-16T23:53:49.3N]
