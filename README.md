@@ -26,7 +26,7 @@ Once the images are create you can issue the following command to bring the imag
     - Creating nginx ... done
 
 ### Health endpoint
-Once this is done you should be able to execute the script probe.sh which will monitor the health of the api and write a file as following:
+Once this is done you should be able to execute the script probe.sh which will monitor the health of the api and write a file in the same directory showing as following:
 
 - response_code: 200 [timestamp:2018-07-16T23:53:49.3N]
 - response_code: 200 [timestamp:2018-07-16T23:53:49.3N]
