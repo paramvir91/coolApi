@@ -1,1 +1,10 @@
-response_code: 200
+response_code: 200 connect_time: 0.006118
+response_code: 200 connect_time: 0.006118
+response_code: 200 connect_time: 0.006118
+response_code: 200 connect_time: 0.006118
+response_code: 200 connect_time: 0.006118
+response_code: 200 connect_time: 0.006118
+response_code: 200 connect_time: 0.006118
+response_code: 200 connect_time: 0.006118
+response_code: 200 connect_time: 0.006118
+response_code: 200 connect_time: 0.006118
